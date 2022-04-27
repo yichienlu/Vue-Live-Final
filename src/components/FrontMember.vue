@@ -73,7 +73,6 @@ export default {
       })
       this.loggedIn = false
       this.checkSuccess = false
-      window.location.href = '/'
     }
   },
   mounted () {
